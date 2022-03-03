@@ -8,4 +8,4 @@
 > python3 JoesConsole.py
 
 i would love to get your feedback and suggestions .
-enjoy and please use responsibly !
+please use responsibly !
